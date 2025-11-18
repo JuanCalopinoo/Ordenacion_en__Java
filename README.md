@@ -24,7 +24,8 @@ Burbuja_Seleccion_Inserccion/
 ├── .idea/
 └── src/
     └── main/
-        └── java.u2.sorting/
+        └── java
+            └──ed.u2.sorting/
                         ├── BubbleSort.java
                         ├── InsertionSort.java
                         ├── Main.java
